@@ -2,7 +2,7 @@
 
 Responsive fitness dashboard application using React, with dark and light mode support.
 
-<img width="956" alt="Screenshot 2024-11-11 at 18 19 39" src="https://github.com/user-attachments/assets/db554051-a18e-48cb-a1e8-570368b93fdd">
+<img width="1508" alt="Screenshot 2024-11-11 at 18 25 59" src="https://github.com/user-attachments/assets/a35c2246-e2ec-48af-ac2a-038024923e64">
 
-<img width="982" alt="Screenshot 2024-11-11 at 18 19 48" src="https://github.com/user-attachments/assets/c0554c3b-18eb-4889-beef-277782d3e75a">
+<img width="1507" alt="Screenshot 2024-11-11 at 18 25 48" src="https://github.com/user-attachments/assets/4230d6d0-bce2-45e8-8735-f5636b1a04c1">
 
